@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "My resume",
+  "scripts": {},
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ultimatezen/resume.git"
+  },
+  "author": "Tien Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ultimatezen/resume/issues"
+  },
+  "homepage": "https://github.com/ultimatezen/resume#readme",
+  "dependencies": {
+    "eslint": "^4.3.0",
+    "markdown-pdf": "^8.0.0",
+    "node-dir": "^0.1.17"
+  }
+}
