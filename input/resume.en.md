@@ -6,17 +6,21 @@ JavaScript, Node.js, Docker, AWS, MySQL, Couchbase, Memcached, Redis, Vim, Visua
 
 ## Professional Experience
 
-### Freelance 2015/10 - Present
+### Freelance 2016/09 - Present
 #### Engineer
 
-Full stack development.
+Full-stack development on various projects.
+
+### Coursebase Inc. (Tokyo, Japan) 2015/10 - 2016/09
+#### Full-stack developer
+
 Developing backend and infrastructure for a cloud-based LMS.
-Frontend development for games.
+Migrating large amounts of client data to our platform.
 
 ### Inis Inc. (Tokyo, Japan) 2014/08 - 2015/10
 #### Developer
 
-Developing a large scale game for NTT Docomo using technologies like Node.js, Redis, and MySQL.
+Developing a large scale game for NTT Docomo using technologies including Node.js, Redis, and MySQL.
 
 ### Wizcorp Inc. (Tokyo, Japan) 2010/07 -  2014/07
 #### Lead Developer
@@ -41,7 +45,7 @@ Resolved database issues upon client request.
 Worked with a team to build and maintain WAP sites for multiple mobile carriers in the European market.
 Developed web portals to provide BtoS contents and promote WAP services.
 Created tools and applications for internal usage.
-Helped released global company website when deadline was shortened by two months.
+Helped released global company website when the deadline was shortened by two months.
 Part of newly formed team to expand product into Europe.
 
 ### Vicarious Visions (Troy, NY USA) 2005/08 - 2005/10
