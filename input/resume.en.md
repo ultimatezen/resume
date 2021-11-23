@@ -2,14 +2,15 @@
 
 ## Technical Proficiencies
 
-JavaScript, Node.js, Docker, AWS, MySQL, Couchbase, Memcached, Redis, Vim, Visual Studio Code
+JavaScript, Node.js, Docker, AWS, MySQL, Couchbase, Memcached, Redis, Vim, Visual Studio Code, C#, MongoDB
 
 ## Professional Experience
 
 ### Freelance 2016/09 - Present
-#### Engineer
 
-Full-stack development on various projects.
+#### Wizcorp Inc. - Backend development for globally popular online game "Dofus".
+#### enTouch K.K. - Developed backend and client for platform used by healthcare professionals.
+#### Kadric Smart Solutions K.K. - Senior engineer for projects related to smart cities, robotics, and purchasing/inventory.
 
 ### Coursebase Inc. (Tokyo, Japan) 2015/10 - 2016/09
 #### Full-stack developer
